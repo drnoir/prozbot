@@ -1,0 +1,24 @@
+{
+  "name": "prozbot",
+  "version": "1.0.0",
+  "description": "npm package",
+  "main": "prozbot.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drnoir/prozbot.git"
+  },
+  "author": "chris godber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drnoir/prozbot/issues"
+  },
+  "homepage": "https://github.com/drnoir/prozbot#readme"
+}
