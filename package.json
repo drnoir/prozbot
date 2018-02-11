@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "prozbot.js",
+    "start": "node prozbot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
